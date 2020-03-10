@@ -43597,7 +43597,7 @@ $1:function(a){var t=$.Zi().style
 t.cursor="default"}}
 F.zA.prototype={
 D:function(a){var t=X.a0M(null,"Noto Sans JP",C.kZ),s=H.a([C.wr,C.wv],u.eu),r=H.a([new P.jh("ja","JP")],u.as)
-return new S.pj(new V.hX(null),P.b2(["/main",new F.MX(),"/questions",new F.MY(),"/works",new F.MZ(),"/shinkan",new F.N_(),"/groups",new F.N0(),"/character",new F.N1(),"/schedule",new F.N2()],u.N,u.hw),"Flutter Demo",t,s,r,null)}}
+return new S.pj(new V.hX(null),P.b2(["/main",new F.MX(),"/questions",new F.MY(),"/works",new F.MZ(),"/shinkan",new F.N_(),"/groups",new F.N0(),"/character",new F.N1(),"/schedule",new F.N2()],u.N,u.hw),"KCS::Keio Computer Society \u65b0\u6b53\u7279\u8a2d\u30b5\u30a4\u30c8",t,s,r,null)}}
 F.MX.prototype={
 $1:function(a){return new V.hX(null)},
 $S:181}
