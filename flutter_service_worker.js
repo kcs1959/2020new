@@ -32,11 +32,12 @@ const RESOURCES = {
 "/assets\image\uzuka_rough.jpg": "1022ef4901a14a7ddcdec247b38d7e3d",
 "/assets\LICENSE": "3847ab82e23cb9e494acbf558bdeb8a8",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"/icons\Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"/icons\Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"/index.html": "c0fac9ddbf8b8f0d6f4376ef80ce2df6",
-"/main.dart.js": "d59b4811bb3f29432260e1e3384020c5",
-"/manifest.json": "86ecbf1cf049fd3ea90a6e9e6a914fa4"
+"/icons\Icon-192.png": "57ec733482a5659268cf5a8547f5c276",
+"/icons\Icon-512.png": "5f7a47ee80b98e7da6b32109411f9bed",
+"/index.html": "730597cd4b13863214d971c7fddbee2c",
+"/main.dart.js": "57ce026d6686942a6647780643b13c9f",
+"/manifest.json": "86ecbf1cf049fd3ea90a6e9e6a914fa4",
+"/splash.css": "b2f86e7bf80b2b07ec0c3669298a791e"
 };
 
 self.addEventListener('activate', function (event) {
