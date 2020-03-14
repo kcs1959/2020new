@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "/assets\AssetManifest.json": "9351f081ba6592ed0dc0f46115f005f6",
+  "/assets\AssetManifest.json": "d4804fc2fefcc9a5c7be02d68dcafdb2",
 "/assets\FontManifest.json": "04cae76867ee9ed7ca9d2385f6c0dcf1",
 "/assets\fonts\anzumoji.ttf": "d81461ce27ce5b4761426f36ecfaf461",
 "/assets\fonts\corporate_logo_bold.ttf": "ffac0fbc30fbbfa74d32b4affe2ff16c",
@@ -21,6 +21,7 @@ const RESOURCES = {
 "/assets\image\groups\dtm.jpg": "1fab62d4871bbe411b5803406f66582b",
 "/assets\image\groups\unity.jpg": "027d4ba85fd2ff48d6736f98628617e4",
 "/assets\image\groups\web.jpg": "cd2a9f76d82c2974ac55c00f43471dba",
+"/assets\image\icon_qrcode.png": "1023d85d47141c01a991b435f3d9ce5d",
 "/assets\image\kcschann.png": "38e0b29c36f7e1ec488a9a332fc21735",
 "/assets\image\kcschann_standing.png": "6b887e2b76a0e703e5caa8af5e2df17d",
 "/assets\image\kcsdragon.png": "b9228c48cb200160772431f13d7bb4dd",
@@ -38,12 +39,12 @@ const RESOURCES = {
 "/assets\image\twitterlogo.png": "c3e4ca18065f182967f530f2a6abd340",
 "/assets\image\uzuka.jpg": "75675c5c288ee235a31e0ae8de6241b6",
 "/assets\image\uzuka_rough.jpg": "e6f003851ceb91e7b1c2c1c6ac845a1c",
-"/assets\LICENSE": "7b7d48938be4b6bf0cc4b275dd91afb0",
+"/assets\LICENSE": "bc80904d33fda8248edd7af6f1b60bb0",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/icons\Icon-192.png": "57ec733482a5659268cf5a8547f5c276",
 "/icons\Icon-512.png": "5f7a47ee80b98e7da6b32109411f9bed",
-"/index.html": "97ba40a1495ba3ecebb49bfcba13093b",
-"/main.dart.js": "6413944bd1a1c591387b5776c390bf5c",
+"/index.html": "5014ee2d12ddfd12a7153037c0109b9d",
+"/main.dart.js": "d80eea5ae5602fc90b0b7c0f563a3e5f",
 "/manifest.json": "86ecbf1cf049fd3ea90a6e9e6a914fa4",
 "/splash.css": "b2f86e7bf80b2b07ec0c3669298a791e"
 };
