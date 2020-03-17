@@ -44,7 +44,7 @@ const RESOURCES = {
 "/assets\image\schedule\spring_camp2.jpg": "1356f734d8d0ab5433ec3a35e709806d",
 "/assets\image\schedule\spring_camp3.jpg": "857ae35958f6fae9b9b395b8fd72d2a3",
 "/assets\image\schedule\spring_camp4.jpg": "02f48b4f43bbf040cd8ae733f990a20d",
-"/assets\image\schedule\summer_camp1.jpg": "9303c32a07ecc53aaa9b83ae60d01ae1",
+"/assets\image\schedule\summer_camp1.jpg": "fd9e204ef7afc9c7228310f5d9313d29",
 "/assets\image\schedule\summer_camp2.jpg": "a3e63d87337982ab6a1f9cabc2c3c5f7",
 "/assets\image\schedule\summer_camp3.jpg": "19388cb5e7b4004ff1f006cd0676c282",
 "/assets\image\schedule\summer_camp4.jpg": "e90f3b871c773d406413ff731e9f4d2a",
@@ -63,7 +63,7 @@ const RESOURCES = {
 "/icons\Icon-192.png": "57ec733482a5659268cf5a8547f5c276",
 "/icons\Icon-512.png": "5f7a47ee80b98e7da6b32109411f9bed",
 "/index.html": "91bdc45e47b5e045bfe6a12d6e0bfbbd",
-"/main.dart.js": "27ad6d093fa1771c71d80d0ddd1fa346",
+"/main.dart.js": "9ad003ef6138b2768cf0db9c32f636f9",
 "/manifest.json": "941641db9d08796ec4f44101267a92c5",
 "/splash.css": "b2f86e7bf80b2b07ec0c3669298a791e"
 };
