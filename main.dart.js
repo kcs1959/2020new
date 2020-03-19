@@ -51924,7 +51924,7 @@ $0:function(){D.Sg(this.a.x)},
 $S:0}
 E.ZD.prototype={
 $0:function(){var t=this.a
-D.ta("\u300c"+t.b+"\u300d -KCS\u65b0\u6b532020 \u4f5c\u54c1\u96c6 \n https://kcs1959.github.io/#/works/detail?id="+t.a)},
+D.ta("\u300c"+t.b+"\u300d -KCS\u65b0\u6b532020 \u4f5c\u54c1\u96c6 \n https://kcs1959.github.io/2020new/#/works/detail?id="+t.a)},
 $S:0}
 E.ZE.prototype={
 $0:function(){var t=this.a.aM(u.I)
