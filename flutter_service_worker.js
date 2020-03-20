@@ -96,13 +96,13 @@ const RESOURCES = {
 "/assets\image\works\supercell_ai.jpg": "8d44712b51b31a5708d0ee5520f9152d",
 "/assets\image\yuzuka.jpg": "75675c5c288ee235a31e0ae8de6241b6",
 "/assets\image\yuzuka_rough.jpg": "e6f003851ceb91e7b1c2c1c6ac845a1c",
-"/assets\LICENSE": "cdfc4ccd989c0783847adfb6f32fd5d6",
+"/assets\LICENSE": "29a10a6ea87d39cb57b5f242b8f9fd2f",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets\packages\flutter_markdown\assets\logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "/icons\Icon-192.png": "57ec733482a5659268cf5a8547f5c276",
 "/icons\Icon-512.png": "5f7a47ee80b98e7da6b32109411f9bed",
 "/index.html": "91bdc45e47b5e045bfe6a12d6e0bfbbd",
-"/main.dart.js": "13c7d367a126b730629db8f95fa8b7be",
+"/main.dart.js": "be75345ec21f08c19ebcaa771aae34a6",
 "/manifest.json": "941641db9d08796ec4f44101267a92c5",
 "/splash.css": "b2f86e7bf80b2b07ec0c3669298a791e"
 };
