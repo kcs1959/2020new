@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "/assets\AssetManifest.json": "e2b3b9789f09916fdba8ee70838c7fce",
+  "/assets\AssetManifest.json": "a5f5bb914e5a1cd45b13726b442a83c0",
 "/assets\FontManifest.json": "d7cf16e775b7e5491a82c18594fe1e3f",
 "/assets\fonts\anzumoji.ttf": "d81461ce27ce5b4761426f36ecfaf461",
 "/assets\fonts\corporate_logo_bold.ttf": "ffac0fbc30fbbfa74d32b4affe2ff16c",
@@ -87,6 +87,7 @@ const RESOURCES = {
 "/assets\image\works\k_sf.jpg": "3af629f9114ba63504b801ea3d351daa",
 "/assets\image\works\orfevre_btl.jpg": "4e5f3f140e92df923c131ca7b7b6d8ad",
 "/assets\image\works\orfevre_btl_dev.jpg": "9a2bb4a7df6a9866d86ae63413508120",
+"/assets\image\works\rinju_vividbeats.jpg": "5d4f8aecabdcc55007ff5a7c8ff3877c",
 "/assets\image\works\sho_atsumori1.jpg": "2701303b4505b84b27067613e3589bb1",
 "/assets\image\works\sho_atsumori2.jpg": "850dbcb58617a4b7969ca97dfd13eb05",
 "/assets\image\works\sho_atsumori_dev.png": "778e1e9f147f71a368a2b416a1f1a8b2",
@@ -102,7 +103,7 @@ const RESOURCES = {
 "/icons\Icon-192.png": "57ec733482a5659268cf5a8547f5c276",
 "/icons\Icon-512.png": "5f7a47ee80b98e7da6b32109411f9bed",
 "/index.html": "91bdc45e47b5e045bfe6a12d6e0bfbbd",
-"/main.dart.js": "be75345ec21f08c19ebcaa771aae34a6",
+"/main.dart.js": "6ccbc20ef2d2149c5c58e1214a9dbcc7",
 "/manifest.json": "941641db9d08796ec4f44101267a92c5",
 "/splash.css": "b2f86e7bf80b2b07ec0c3669298a791e"
 };
